@@ -1,7 +1,8 @@
 # nomaQuote
 ![nomaQuote!](./src/assets/webpage.png)
 #### nomaQuote is an quote  generator created using angular cli  v.12.2.8
-#### By Simon Kairu Mureithi
+#### By Simon Kairu Mureithi 
+---
 ## Description
 Nomaquote is an app generator where people can write their favourite quotes and people vote which is the best quote 
 ## Setup/Installation Requirements
