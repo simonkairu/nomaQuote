@@ -18,7 +18,7 @@ There are currently no known bugs contact incase you get any
 ## Technologies Used
 1 HTML(Hypertext Mark-up Language)
 
-2 CSS (Cascading Style Sheet)
+2 CSS 
 
 3 Bootstrap
 
