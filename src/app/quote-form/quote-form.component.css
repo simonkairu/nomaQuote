@@ -1,0 +1,11 @@
+#now{
+background: blue;
+width: 300px;
+border-radius: 2px solid black;
+text-align: center;
+}
+
+form{
+    width: 80%;
+    margin: auto;
+}
