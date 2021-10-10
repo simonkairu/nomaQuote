@@ -34,6 +34,6 @@ Incase of any support or any idea on how the website can be improved kindly emai
 
 ### [live link](https://simonkairu.github.io/nomaQuote/)
 
-### License
+### License This project is under [LICENSE](MIT)
 MIT
 Copyright (c) {2021} Simon Kairu
