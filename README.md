@@ -3,7 +3,7 @@
 #### nomaQuote is an quote  generator created using angular cli  v.12.2.8
 #### By Simon Kairu Mureithi
 ## Description
-nomaquote is an app generator where people can write their favourite quotes and people vote which is the best quote 
+Nomaquote is an app generator where people can write their favourite quotes and people vote which is the best quote 
 ## Setup/Installation Requirements
 The project is under the MIT licence making it easy for anyone who wants to use it,you can clone it to your machine
 
