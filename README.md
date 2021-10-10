@@ -30,7 +30,7 @@ There are currently no known bugs
 
 7 Typescript
 ## Support and contact details
-Incase of any support or any idea on how the website can be improved kindly email  simonkairu14@gmail.com
+Incase of any support or any idea on how the website can be improved kindly email  simonkairu14@gmail.com or call 0702027760
 
 ### [live link](https://simonkairu.github.io/nomaQuote/)
 
