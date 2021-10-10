@@ -14,7 +14,7 @@ Enter to create your local clone.
 This will clone the repositoty into your local folder in your laptop.
 You can then run it using any code editor that you like
 ## Known Bugs
-There are currently no known bugs 
+There are currently no known bugs contact incase you get any
 ## Technologies Used
 1 HTML(Hypertext Mark-up Language)
 
