@@ -36,4 +36,4 @@ Incase of any support or any idea on how the website can be improved kindly emai
 
 ### License
 MIT
-Copyright (c) {2021} Simon Kairu,Moringa School
+Copyright (c) {2021} Simon Kairu
